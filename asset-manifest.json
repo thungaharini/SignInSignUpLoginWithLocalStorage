@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SignInSignUpLoginWithLocalStorage/static/css/main.f99543e1.css",
+    "main.js": "/SignInSignUpLoginWithLocalStorage/static/js/main.0d10ae72.js",
+    "index.html": "/SignInSignUpLoginWithLocalStorage/index.html",
+    "main.f99543e1.css.map": "/SignInSignUpLoginWithLocalStorage/static/css/main.f99543e1.css.map",
+    "main.0d10ae72.js.map": "/SignInSignUpLoginWithLocalStorage/static/js/main.0d10ae72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f99543e1.css",
+    "static/js/main.0d10ae72.js"
+  ]
+}
